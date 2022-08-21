@@ -1,0 +1,3 @@
+/home/michael/Documentos/HPC_2/Taller2/CMakeFiles/Taller2.dir
+/home/michael/Documentos/HPC_2/Taller2/CMakeFiles/edit_cache.dir
+/home/michael/Documentos/HPC_2/Taller2/CMakeFiles/rebuild_cache.dir

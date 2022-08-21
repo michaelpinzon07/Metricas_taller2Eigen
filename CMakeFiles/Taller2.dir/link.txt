@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Taller2.dir/main.cpp.o -o Taller2 
