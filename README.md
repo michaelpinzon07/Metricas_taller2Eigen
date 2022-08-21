@@ -22,3 +22,13 @@ Para Instalar Qt en linux desde el terminal se ejecuta el siguiente comando:
 
 
 ![Esta es una imagen](https://ubunlog.com/wp-content/uploads/2019/05/instalacion-qtcreator.png)
+
+## REFERENCIA
+
+https://ubunlog.com/instala-qt-creator-compila-programa/
+
+
+https://www.ionos.es/digitalguide/servidores/know-how/qt/
+
+
+
